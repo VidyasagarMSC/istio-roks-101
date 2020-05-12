@@ -14,7 +14,7 @@ OR
 
   1. Visit [https://5079.mybluemix.net/](https://5079.mybluemix.net/) Enter your IBMid \(the email you used to sign up\) and the lab key \(also provided by the instructor\).
 
-    ![Get clusters app](../assets/get-clusters.png)
+   ![Get clusters app](../assets/get-clusters.png)
 
 1. Follow the instructions on the next page. You will be added to the IBM Workshop account and granted access to a cluster. Note the name of your cluster. In the example below, it's `roks07`.
 
